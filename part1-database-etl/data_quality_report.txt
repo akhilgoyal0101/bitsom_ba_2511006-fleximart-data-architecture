@@ -1,0 +1,3 @@
+Customers: processed=27, duplicates_removed=1, missing_emails_filled=0, loaded=26
+Products: processed=21, missing_prices_filled=4, loaded=21
+Sales: processed=36, after_cleaning=35, loaded=35

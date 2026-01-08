@@ -1,0 +1,36 @@
+Total_spent DESC;
++------------------+--------------------------+--------------+-------------+
+| customer_name    | email                    | total_orders | total_spent |
++------------------+--------------------------+--------------+-------------+
+| Lakshmi Krishnan | unknown_C012@example.com |            2 |    85998.00 |
+| Arjun Rao        | arjun.rao@gmail.com      |            2 |    82998.00 |
+| Karthik Nair     | karthik.nair@yahoo.com   |            2 |    57598.00 |
+| Amit Kumar       | unknown_C003@example.com |            2 |    57496.00 |
+| Priya Patel      | priya.patel@yahoo.com    |            2 |    51997.00 |
+| Swati Desai      | swati.desai@gmail.com    |            2 |    51498.00 |
+| Rajesh Kumar     | rajesh.kumar@gmail.com   |            2 |    36595.00 |
+| Anjali Mehta     | anjali.mehta@gmail.com   |            2 |    17598.00 |
+| Ravi Verma       | unknown_C007@example.com |            2 |    10996.00 |
+| Kavya Reddy      | unknown_C018@example.com |            2 |     5697.00 |
+| Neha Shah        | neha.shah@gmail.com      |            2 |     5596.00 |
+| Suresh Patel     | suresh.patel@outlook.com |            2 |     5348.00 |
++------------------+--------------------------+--------------+-------------+
+12 rows in set (0.01 sec)
+
++-------------+--------------+---------------------+---------------+
+| category    | num_products | total_quantity_sold | total_revenue |
++-------------+--------------+---------------------+---------------+
+| Electronics |            9 |                  23 |     547477.00 |
+| fashion     |            7 |                  17 |      45883.00 |
+| Groceries   |            4 |                  42 |      18601.00 |
++-------------+--------------+---------------------+---------------+
+
++------------+--------------+-----------------+--------------------+
+| month_name | total_orders | monthly_revenue | cumulative_revenue |
++------------+--------------+-----------------+--------------------+
+| January    |            7 |       128542.00 |          128542.00 |
+| February   |           11 |       225732.00 |          354274.00 |
+| March      |           11 |       172736.00 |          527010.00 |
+| April      |            6 |        84951.00 |          611961.00 |
++------------+--------------+-----------------+--------------------+
+4 rows in set (0.01 sec)
