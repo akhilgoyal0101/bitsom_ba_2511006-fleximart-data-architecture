@@ -16,5 +16,8 @@ The project demonstrates practical implementation of relational databases, NoSQL
 ---
 
 ## Repository Structure
-
-# bitsom_ba_25072078-fleximart-data-architecture-
+├── part1-database-etl/
+├── part2-nosql/
+├── part3-datawarehouse/
+├── .gitignore
+└── README.md
